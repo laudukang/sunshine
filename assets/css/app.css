@@ -1,0 +1,9 @@
+/* Write your styles */
+.am-panel-xiaoshan{text-align: center;font-size: large;color: #14a6ef;background-color: rgba(59,180,242,.15);border-color: #caebfb;padding:.6rem 1.25rem;border-bottom:1px solid transparent;border-top-right-radius:0;border-top-left-radius:0}
+.pre-xiaoshan {
+ white-space: pre-wrap;       /* css-3 */
+ white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+ white-space: -pre-wrap;      /* Opera 4-6 */
+ white-space: -o-pre-wrap;    /* Opera 7 */
+ word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
